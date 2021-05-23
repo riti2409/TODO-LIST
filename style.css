@@ -1,0 +1,25 @@
+body{
+    background-image:url('https://cdn.glitch.com/5963108e-c0ce-43d8-9c7e-e948f64286b3%2Fwallpaperflare.com_wallpaper.jpg?v=1621759689415') ;
+}
+
+table, th, td {
+    border: 2px solid black;
+    color:white;
+    font-weight: 500;
+    
+  }
+.ts{
+    color:white;
+    font-weight: 300;
+}
+.typing,li{
+    color:white;
+    font-weight: 500;
+}
+a{
+    color:white;
+    font-weight: 500;
+}
+box{
+    font-weight: 500;
+}
